@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/error</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="What's-Next---Checklist-V5" transform="translate(-400.000000, -721.000000)">
+            <g id="ico/error" transform="translate(400.000000, 721.000000)">
+                <path d="M9.5,0 C4.25726667,0 0,4.25726667 0,9.5 C0,14.7427333 4.25726667,19 9.5,19 C14.7427333,19 19,14.7427333 19,9.5 C19,4.25726667 14.7427333,0 9.5,0 Z" id="Shape" fill="#EB6E27" fill-rule="nonzero"></path>
+                <path d="M9.5,7.05714286 C8.75357143,7.05714286 8.14285714,7.69604396 8.14285714,8.47692308 L8.14285714,14.8659341 C8.14285714,15.6468132 8.75357143,16.2857143 9.5,16.2857143 C10.2464286,16.2857143 10.8571429,15.6468132 10.8571429,14.8659341 L10.8571429,8.47692308 C10.8571429,7.69604396 10.2464286,7.05714286 9.5,7.05714286 Z" id="Path" fill="#FFFFFF" fill-rule="evenodd"></path>
+                <path d="M9.5,3.25714286 C8.75357143,3.25714286 8.14285714,3.86785714 8.14285714,4.61428571 C8.14285714,5.36071429 8.75357143,5.97142857 9.5,5.97142857 C10.2464286,5.97142857 10.8571429,5.36071429 10.8571429,4.61428571 C10.8571429,3.86785714 10.2464286,3.25714286 9.5,3.25714286 Z" id="Path" fill="#FFFFFF" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

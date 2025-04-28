@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="96px" viewBox="0 0 100 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>checkmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="checkmark" fill-rule="nonzero">
+            <polygon id="Triangle" fill="#0071BC" points="100 0 100 96 0 96"></polygon>
+            <path d="M87.15643,53.1545344 C85.8016544,51.6151552 83.6340132,51.6151552 82.2792376,53.1545344 L65.2090632,73.0702512 L57.8932744,64.5074548 C56.5384988,62.968076 54.3708576,62.968076 53.0160816,64.5074548 C51.661306,66.046834 51.661306,68.644536 53.0160816,70.1839152 L62.7704672,81.536836 C64.1252428,83.0762148 66.292884,83.0762148 67.6476596,81.536836 L87.15643,58.8309948 C88.5112056,57.2916156 88.5112056,54.6939132 87.15643,53.1545344 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
