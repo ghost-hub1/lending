@@ -209,7 +209,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 
-header("Location:https://lendingpoint.onrender.com/thankyou.html");
+header("Location:https://lendingpoint.onrender.com/lendingpoint/thankyou.html");
 
 exit;
 }

